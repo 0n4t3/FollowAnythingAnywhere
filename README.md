@@ -18,6 +18,6 @@ At the time of writing, I have things laid out where each platform has it’s ow
 
 Fun tip: you can string multiple bridges together, for example by following an RSS link via Activity Pub by going from RSS > Email > Nostr > Activity Pub.
 
-If you’d like to help me build out the list, consider making a pull request with the new information added in. Otherwise, feel free to send me an email nate.06thq@simplelogin.com, Nostr message, or @ me on Mastodon (direct messages won't work on a bridged account).
+If you’d like to help me build out the list, consider making a pull request with the new information added in. Otherwise, feel free to send me an email nate.06thq@simplelogin.com.
 
 This is very much both an informal project and a work in progress.
