@@ -16,7 +16,7 @@ Following content your own way allows you to avoid algorithms, the need to have 
 ### How to Use
 At the time of writing, I have things laid out where each platform has it’s own page listing all the ways you can follow most things. Followed by categories listed alphabetically, with the exception of RSS where bridges are laid out first (RSS is sometimes hard to find unlike other protocols).
 
-Fun tip: you can string multiple bridges together, for example by following an RSS link via Activity Pub by going from RSS > Email > Nostr > Activity Pub.
+Fun tip: you can string multiple bridges together, for example by following an email newsletter via Activity Pub by going *Email > RSS > Nostr > Activity Pub*. Jumping from one to another can let you follow pretty much anything with any of them.
 
 If you’d like to help me build out the list, [consider making a pull request](https://github.com/0n4t3/followanythinganywhere) with the new information added in. Otherwise, feel free to send me an email nate.06thq@simplelogin.com.
 

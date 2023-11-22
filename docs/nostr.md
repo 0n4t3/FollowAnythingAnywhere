@@ -12,10 +12,13 @@ Nostr, short for “Notes and Other Stuff Transmitted by Relays”, is a decentr
 **Matrix Chat via Nostr**
 * [Matrix Nostr Bridge](https://github.com/8go/matrix-nostr-bridge)
 
-**Following Minds Posts via Nostr**
+**Minds Posts via Nostr**
 * [Minds Relay](https://gitlab.com/minds/infrastructure/nostr-relay)
 
-**Following RSS Feeds via Nostr**
+**News Feeds via Nostr**
+* [A currated list by Verityj](https://verityj.github.io/nostr-news-feeds.html)
+
+**RSS Feeds via Nostr**
 * [RSSLAY](https://github.com/piraces/rsslay) – [Main Instance](https://rsslay.nostr.moe/)
 * [NostRSS](https://github.com/Asone/nostrss)
 
