@@ -122,7 +122,7 @@ Generic Bridges that require an account and/or payment:
 ### News
 
 **Ground News**
-* * [OpenRSS](https://openrss.org/)
+* [OpenRSS](https://openrss.org/)
 
 **Most News Sites**
 * Any decent news site will let you subscribe via RSS, just look for the RSS icon or search `[site name] rss`
