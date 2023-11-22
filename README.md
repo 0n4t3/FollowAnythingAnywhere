@@ -5,11 +5,11 @@ Following content your own way allows you to avoid algorithms, the need to have 
 
 ### Platforms
 
-[Activity Pub](https://0n4t3.github.io/followanythinganywhere/activitypub.html)
+[Activity Pub](https://0n4t3.github.io/followanythinganywhere/activitypub)
 
-[Email](https://0n4t3.github.io/followanythinganywhere/email.html)
+[Email](https://0n4t3.github.io/followanythinganywhere/email)
 
-[Nostr]()
+[Nostr](https://0n4t3.github.io/followanythinganywhere/nostr)
 
 [RSS](https://0n4t3.github.io/followanythinganywhere/rss)
 
