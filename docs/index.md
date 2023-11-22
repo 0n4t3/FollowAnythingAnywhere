@@ -5,13 +5,13 @@ Following content your own way allows you to avoid algorithms, the need to have 
 
 ### Platforms
 
-Activity Pub
+[Activity Pub](https://0n4t3.github.io/followanythinganywhere/activitypub)
 
-Email
+[Email](https://0n4t3.github.io/followanythinganywhere/email)
 
-Nostr
+[Nostr](nostr)
 
-RSS
+[RSS](https://0n4t3.github.io/followanythinganywhere/rss)
 
 ### How to Use
 At the time of writing, I have things laid out where each platform has it’s own page listing all the ways you can follow most things. Followed by categories listed alphabetically, with the exception of RSS where bridges are laid out first (RSS is sometimes hard to find unlike other protocols).
