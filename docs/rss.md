@@ -2,6 +2,9 @@ RSS (and it’s predecessor ATOM which is often used interchangeably in readers)
 
 ### Bridges
 
+Activity Pub (any platform) to RSS
+* [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - [Instances](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
+
 Email to RSS:
 * [Kill the Newsletter](https://kill-the-newsletter.com/)
 
@@ -27,6 +30,9 @@ Generic Bridges that require an account and/or payment:
 
 **Blogspot**
 * Add /feeds/posts/default?alt=rss to the home page (e.g. example.blogspot.com/feeds/posts/default?alt=rss)
+
+**Hive.Blog**
+* [Hive RSS](https://hiverss.com/)
 
 **Medium**
 * Add /feed to an author's page
@@ -80,9 +86,16 @@ Generic Bridges that require an account and/or payment:
 
 **Github**
 * Add ".atom" to the end of a url for things such as releases or tags, e.g. `github.com/user/repo/releases.atom`
+* [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
+* [OpenRSS](https://openrss.org/)
+
+**Gitlab**
+* RSS icon on merge requests, commits, and tags
+* [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
 **Indeed (specific search results)**
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
+* [OpenRSS](https://openrss.org/)
 
 **Telegram (public channels)**
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
@@ -93,6 +106,7 @@ Generic Bridges that require an account and/or payment:
 
 **Instagram**
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
+* [OpenRSS](https://openrss.org/)
 
 **Patreon**
 * Provided by Patreon via email if enabled by the creator
@@ -102,11 +116,17 @@ Generic Bridges that require an account and/or payment:
 * Add .atom to a user’s profile URL, e.g. `example.com/users/user.atom`
 
 **TikTok**
+* [ProxyTok](https://github.com/pablouser1/ProxiTok) - [Instances](https://github.com/pablouser1/ProxiTok/wiki/Public-instances)
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
+* [OpenRSS](https://openrss.org/)
+
 
 ---
 
 ### Music and Podcasts
+
+**Generic Podcasts**
+* Most podcasts have an RSS feed to integrate with podcast apps
 
 **Itunes**
 * [Music Charts](https://www.apple.com/rss/)
@@ -121,11 +141,11 @@ Generic Bridges that require an account and/or payment:
 
 ### News
 
+**Generic News Sites**
+* Most news site will let you subscribe via RSS, look for the RSS icon or search `[site name] rss`
+
 **Ground News**
 * [OpenRSS](https://openrss.org/)
-
-**Most News Sites**
-* Any decent news site will let you subscribe via RSS, just look for the RSS icon or search `[site name] rss`
 
 ---
 
