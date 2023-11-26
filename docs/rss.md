@@ -2,17 +2,17 @@ RSS (and it’s predecessor ATOM which is often used interchangeably in readers)
 
 ### Bridges
 
-Activity Pub (any platform) to RSS
+**Activity Pub (any platform) to RSS**
 * [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - [Instances](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
-Email to RSS:
+**Email to RSS:**
 * [Kill the Newsletter](https://kill-the-newsletter.com/)
 
-Generic Bridges (both support a heck of a lot more than listed here):
+**Generic Bridges** (both support a heck of a lot more than listed here):
 * [OpenRSS](https://openrss.org/)
 * [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - [Instances](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
-Generic Bridges that require an account and/or payment:
+**Generic Bridges** (requiring an account and/or payment):
 * [Feed43](https://feed43.com/)
 * [Feedly](https://feedly.com/) (Bridge built into the feed reader)
 * [FetchRSS](https://fetchrss.com/)
