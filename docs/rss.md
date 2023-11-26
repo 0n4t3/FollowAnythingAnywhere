@@ -2,24 +2,24 @@ RSS (and it’s predecessor ATOM which is often used interchangeably in readers)
 
 ### Bridges
 
-**Activity Pub (any platform) to RSS**
+**Activity Pub (any platform) via RSS**
 * [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - [Instances](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
-**Email to RSS:**
+**Email via RSS:**
 * [Kill the Newsletter](https://kill-the-newsletter.com/)
 
-**Generic Bridges** (both support a heck of a lot more than listed here):
+**Generic Bridges** (both support a heck of a lot more than listed here)
 * [OpenRSS](https://openrss.org/)
 * [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - [Instances](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
-**Generic Bridges** (requiring an account and/or payment):
+**Generic Bridges** (requiring an account and/or payment)
 * [Feed43](https://feed43.com/)
 * [Feedly](https://feedly.com/) (Bridge built into the feed reader)
 * [FetchRSS](https://fetchrss.com/)
 * [RSS.App](https://rss.app)
 * [Zapier](https://zapier.com)
 
-**Nostr to RSS**
+**Nostr via RSS**
 * [Nostr.Band RSS Service](https://rss.nostr.band/)
 * [Atomster](https://git.sr.ht/~psic4t/atomstr) - [Main Instance](https://atomstr.data.haus/)
 
@@ -86,18 +86,18 @@ RSS (and it’s predecessor ATOM which is often used interchangeably in readers)
 
 **Github**
 * Add ".atom" to the end of a url for things such as releases or tags, e.g. `github.com/user/repo/releases.atom`
-* [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 * [OpenRSS](https://openrss.org/)
+* [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
 **Gitlab**
 * RSS icon on merge requests, commits, and tags
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
-**Indeed (specific search results)**
-* [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
+**Indeed** (specific search results)
 * [OpenRSS](https://openrss.org/)
+* [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
-**Telegram (public channels)**
+**Telegram** (public channels)
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
 ---
@@ -105,8 +105,8 @@ RSS (and it’s predecessor ATOM which is often used interchangeably in readers)
 ### Misc Social Media
 
 **Instagram**
-* [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 * [OpenRSS](https://openrss.org/)
+* [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
 **Patreon**
 * Provided by Patreon via email if enabled by the creator
@@ -117,8 +117,8 @@ RSS (and it’s predecessor ATOM which is often used interchangeably in readers)
 
 **TikTok**
 * [ProxyTok](https://github.com/pablouser1/ProxiTok) - [Instances](https://github.com/pablouser1/ProxiTok/wiki/Public-instances)
-* [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 * [OpenRSS](https://openrss.org/)
+* [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
 
 ---
@@ -155,18 +155,19 @@ RSS (and it’s predecessor ATOM which is often used interchangeably in readers)
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
 **Craigslist**
+* [OpenRSS](https://openrss.org/)
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
-**Ebay (searches)**
+**Ebay** (searches)
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
-**Epic Games News**
+**Epic Games** (news)
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
-**Etsy (searches)**
+**Etsy** (searches)
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
-**Steam (News, Updates, Communities)**
+**Steam** (news, updates, communities)
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
 ---
