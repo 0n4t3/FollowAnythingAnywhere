@@ -112,6 +112,9 @@ RSS (and it’s predecessor ATOM which is often used interchangeably in readers)
 * [OpenRSS](https://openrss.org/)
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
+**LinkedIn**
+* [OpenRSS](https://openrss.org/)
+
 **Patreon**
 * Provided by Patreon via email if enabled by the creator
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
