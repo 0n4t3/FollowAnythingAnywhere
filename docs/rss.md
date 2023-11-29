@@ -116,6 +116,10 @@ RSS (and it’s predecessor ATOM which is often used interchangeably in readers)
 * Provided by Patreon via email if enabled by the creator
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
+**Pinterest**
+* Add /feed.rss to the end of a profile (e.g. `pinterest.com/user/feed.rss`)
+* Add .rss to the end of a board url (e.g. `pinterest.com/user/board.rss`)
+
 **PixelFed**
 * Add .atom to a user’s profile URL, e.g. `example.com/users/user.atom`
 
