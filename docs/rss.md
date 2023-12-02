@@ -21,8 +21,6 @@ RSS (and it’s predecessor ATOM which is often used interchangeably in readers)
 
 **Nostr via RSS**
 * [Nostr.Band RSS Service](https://rss.nostr.band/)
-* [Atomster](https://git.sr.ht/~psic4t/atomstr) - [Main Instance](https://atomstr.data.haus/)
-
 
 ---
 
