@@ -21,8 +21,6 @@ RSS (and it’s predecessor ATOM which is often used interchangeably in readers)
 
 **Nostr via RSS**
 * [Nostr.Band RSS Service](https://rss.nostr.band/)
-* [Atomster](https://git.sr.ht/~psic4t/atomstr) - [Main Instance](https://atomstr.data.haus/)
-
 
 ---
 
@@ -114,6 +112,9 @@ RSS (and it’s predecessor ATOM which is often used interchangeably in readers)
 **Instagram**
 * [OpenRSS](https://openrss.org/)
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
+
+**LinkedIn**
+* [OpenRSS](https://openrss.org/)
 
 **Patreon**
 * Provided by Patreon via email if enabled by the creator
