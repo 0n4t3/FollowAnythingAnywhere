@@ -100,7 +100,7 @@ RSS (and it’s predecessor ATOM which is often used interchangeably in readers)
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
 **Source Forge**
-* Icon in project activity secon of page (note: sourceforge requests you do not check  more than once ever 30 min)
+* Icon in project activity section of page (note: sourceforge requests you do not check  more than once ever 30 min)
 
 **Telegram** (public channels)
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
