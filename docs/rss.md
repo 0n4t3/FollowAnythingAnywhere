@@ -166,7 +166,7 @@ RSS (and it’s predecessor ATOM which is often used interchangeably in readers)
 
 ### Shopping
 
-**Amazon (searches, prices, etc)**
+**Amazon** (searches, prices, etc)
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
 **Craigslist**
