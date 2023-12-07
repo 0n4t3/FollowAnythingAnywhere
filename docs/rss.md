@@ -67,6 +67,7 @@ RSS (and it’s predecessor ATOM which is often used interchangeably in readers)
 
 **BlueSky**
 * [Bluestream](https://github.com/kawarimidoll/bluestream) - [Main Instance](https://bluestream.deno.dev/)
+* [OpenRSS](https://openrss.org/)
 
 **Friendica**
 * Link on profile page
