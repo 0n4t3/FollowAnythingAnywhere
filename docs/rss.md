@@ -204,6 +204,11 @@ RSS (and it’s predecessor ATOM which is often used interchangeably in readers)
 * [OpenRSS](https://openrss.org/)
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
+**Twitch**
+* [OpenRSS](https://openrss.org/)
+* [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
+* [Twitch RSS](https://github.com/lzeke0/TwitchRSS) - [Main Instance](https://twitchrss.appspot.com/)
+
 **Vimeo**
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
