@@ -17,7 +17,7 @@ Following content your own way allows you to avoid algorithms, avoid needing acc
 ### How to Use
 I have things laid out where each platform has it’s own page listing all the ways you can follow most things. Categories and sites in those categories are listed alphabetically, with the exception of RSS where bridges are laid out first.
 
-Fun tip: you can string multiple bridges together, for example by following an email newsletter via Activity Pub by going *Email > RSS > Nostr > Activity Pub*. Jumping from one to another can let you follow pretty much anything with any of them.
+Fun tip: you can string multiple bridges together, for example by following an email newsletter via Activity Pub by going *Email -> RSS -> Nostr -> Activity Pub*. Jumping from one to another can let you follow pretty much anything with any of them.
 
 If you’d like to help me build out the list, consider making a pull request with the new information added in. Otherwise, feel free to send me an email at nate.06thq@simplelogin.com.
 
