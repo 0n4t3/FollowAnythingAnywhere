@@ -78,6 +78,9 @@ RSS (and it’s predecessor ATOM which is often used interchangeably in readers)
 **Micro.Blog**
 * Found at `username.micro.blog/feed.xml` or [further customization](https://help.micro.blog/t/feeds/94)
 
+**Substack Notes**
+* [OpenRSS](https://openrss.org/)
+
 **Twitter**
 * [Nitter](https://github.com/zedeus/nitter/wiki/Instances)
 * [OpenRSS](https://openrss.org/)
