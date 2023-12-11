@@ -29,8 +29,15 @@ RSS (and it’s predecessor ATOM which is often used interchangeably in readers)
 **Blogspot**
 * Add /feeds/posts/default?alt=rss to the home page (e.g. example.blogspot.com/feeds/posts/default?alt=rss)
 
+**Drupal**
+* Add /feed.xml to the url or to a specific category (e.g. `example.com/feed.xml`)
+
 **Hive.Blog**
 * [Hive RSS](https://hiverss.com/)
+
+**Joomla**
+* Created manually by Joomla site admin, location may vary.
+* [OpenRSS](https://openrss.org/)
 
 **Medium**
 * Add /feed to an author's page
