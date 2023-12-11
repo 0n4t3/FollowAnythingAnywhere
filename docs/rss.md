@@ -26,6 +26,10 @@ RSS (and it’s predecessor ATOM which is often used interchangeably in readers)
 
 ### Blogging Platforms
 
+**Bearblog**
+* Add /feed to a blog's home page (e.g. `user.bearblog.dev/feed`)
+* [Site Wide Trending Feed](https://bearblog.dev/discover/feed/)
+
 **Blogspot**
 * Add /feeds/posts/default?alt=rss to the home page (e.g. example.blogspot.com/feeds/posts/default?alt=rss)
 
