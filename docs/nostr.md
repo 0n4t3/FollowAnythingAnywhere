@@ -20,7 +20,7 @@ Nostr, short for “Notes and Other Stuff Transmitted by Relays”, is a decentr
 
 **RSS Feeds via Nostr**
 * [Atomster](https://git.sr.ht/~psic4t/atomstr) - [Main Instance](https://atomstr.data.haus/)
-* [RSSLAY](https://github.com/piraces/rsslay) – [Example Instance](https://rsslay.nostr.net/) - Note: possibly discontinued 12/18/23
+* [RSSLAY](https://github.com/piraces/rsslay) – [Example Instance](https://rsslay.nostr.net/) - Note: possibly discontinued 12/17/23
 * [NostRSS](https://github.com/Asone/nostrss)
 
 
