@@ -1,5 +1,8 @@
 Activity Pub is a decentralized media protocol that allows communication between federated servers running a variety of software, most notably Mastodon. [Learn More](https://en.wikipedia.org/wiki/ActivityPub).
 
+**News via Activity Pub**
+* [A currated list by Verityj](https://verityj.github.io/nostr-news-feeds.html) (replace "_at_" with @ and remove "@mostr.pub, e.g. `BBCWorld_at_press.coop@mostr.pub` to `BBCWorld@press.coop`)
+
 **Nostr via Activiy Pub**
 * [Mostr.Pub](https://mostr.pub) (two way Nostr <> Activity Pub bridge)
 * [Ditto](https://gitlab.com/soapbox-pub/ditto) (dual Nostr/Activity Pub server, work in progress)
