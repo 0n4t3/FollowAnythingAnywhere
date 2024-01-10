@@ -7,6 +7,7 @@ Activity Pub is a decentralized media protocol that allows communication between
 **RSS via Activity Pub**
 * [Friendcamp](https://github.com/dariusk/rss-to-activitypub) - [Main Instance](https://rss.friend.camp/)
 * Friendica can follow (and optionally auto re-blog) content from RSS feeds
+* [RSS Parrot](https://github.com/gugray/rss-parrot) - [Main Instance](https://rss-parrot.net/)
 
 **Twitter via Activity Pub**
 * [BirdSiteLive](https://github.com/NicolasConstant/BirdsiteLive) - [Instances](https://birdsites.wilde.cloud/)  (one way bridge from Twitter to Activity Pub)
