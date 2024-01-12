@@ -8,7 +8,7 @@ Activity Pub is a decentralized media protocol that allows communication between
 * [Ditto](https://gitlab.com/soapbox-pub/ditto) (dual Nostr/Activity Pub server, work in progress)
 
 **RSS via Activity Pub**
-[BridgyFed](https://github.com/snarfed/bridgy-fed) - [Main Instance](https://fed.brid.gy/) (Nostr & Bluesky support WIP)
+* [BridgyFed](https://github.com/snarfed/bridgy-fed) - [Main Instance](https://fed.brid.gy/) (Nostr & Bluesky support WIP)
 * [Friendcamp](https://github.com/dariusk/rss-to-activitypub) - [Main Instance](https://rss.friend.camp/)
 * Friendica can follow (and optionally auto re-blog) content from RSS feeds
 * [RSS Parrot](https://github.com/gugray/rss-parrot) - [Main Instance](https://rss-parrot.net/)
