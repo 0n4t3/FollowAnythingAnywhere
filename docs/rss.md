@@ -152,6 +152,9 @@ RSS (and it’s predecessor ATOM which is often used interchangeably in readers)
 
 ### Music and Podcasts
 
+**Bandcamp**
+* [OpenRSS](https://openrss.org/)
+
 **FunkWhale**
 * RSS icon on account page
 
