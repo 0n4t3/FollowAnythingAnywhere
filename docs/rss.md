@@ -165,6 +165,7 @@ RSS (and it’s predecessor ATOM which is often used interchangeably in readers)
 * [Music Charts](https://www.apple.com/rss/)
 
 **Spotify**
+* [OpenRSS](https://openrss.org/)
 * [RSS Bridge](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html)
 
 **Soundcloud**
